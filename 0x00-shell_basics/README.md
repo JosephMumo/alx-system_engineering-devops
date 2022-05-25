@@ -1,1 +1,1 @@
-deleting with ~
+creating multiple directories

@@ -1,1 +1,1 @@
-deleting betty
+script to delete

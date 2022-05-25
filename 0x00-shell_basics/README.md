@@ -1,1 +1,1 @@
-Revealing file type
+scripting symbolic links

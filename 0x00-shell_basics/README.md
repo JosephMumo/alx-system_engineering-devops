@@ -1,1 +1,1 @@
-listing more files
+script to list digits only

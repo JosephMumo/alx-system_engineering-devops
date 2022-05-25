@@ -1,1 +1,1 @@
-script to list digits only
+listing digits only

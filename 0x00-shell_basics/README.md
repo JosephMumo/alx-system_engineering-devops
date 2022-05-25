@@ -1,1 +1,1 @@
-my script for printing the absolute pathname of working directory
+script for listing file contents

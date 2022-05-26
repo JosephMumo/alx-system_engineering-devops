@@ -1,1 +1,1 @@
-giving a number of permissions
+script to set mode

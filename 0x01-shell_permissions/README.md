@@ -1,1 +1,1 @@
-creates a new directory
+script to change ownership

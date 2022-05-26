@@ -1,1 +1,1 @@
-script to change user
+print name of the user

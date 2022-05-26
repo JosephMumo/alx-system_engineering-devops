@@ -1,1 +1,1 @@
- magic file
+Script to change user

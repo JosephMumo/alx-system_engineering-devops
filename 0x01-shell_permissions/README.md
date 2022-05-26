@@ -1,1 +1,1 @@
-mirror on the wall
+adds execute permission to all directories

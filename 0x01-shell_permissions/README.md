@@ -1,1 +1,1 @@
-script to show permission levels
+multiple permissions

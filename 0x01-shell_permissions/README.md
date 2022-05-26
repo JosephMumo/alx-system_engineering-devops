@@ -1,1 +1,1 @@
-adds execute permission to all directories
+creates a new directory

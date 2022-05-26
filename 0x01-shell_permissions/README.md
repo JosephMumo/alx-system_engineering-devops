@@ -1,1 +1,1 @@
-script to play star wars
+script for starwars

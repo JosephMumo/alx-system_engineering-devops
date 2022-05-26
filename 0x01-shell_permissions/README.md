@@ -1,1 +1,1 @@
-print name of the user
+script to print groups

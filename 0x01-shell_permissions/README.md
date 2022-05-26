@@ -1,1 +1,1 @@
-script to set mode
+mirror on the wall

@@ -1,1 +1,1 @@
-displaying that pattern
+script to show words without bin

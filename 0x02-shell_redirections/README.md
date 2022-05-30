@@ -1,1 +1,1 @@
-script to print unique
+finding that word

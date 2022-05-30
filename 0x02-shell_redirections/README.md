@@ -1,1 +1,1 @@
-to display number of lines
+displaying that pattern

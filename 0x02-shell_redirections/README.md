@@ -1,1 +1,1 @@
-removing letters c
+Script to reverse output

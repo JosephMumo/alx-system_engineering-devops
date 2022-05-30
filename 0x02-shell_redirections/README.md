@@ -1,1 +1,1 @@
-script to delete regular js files
+script to count number of directories

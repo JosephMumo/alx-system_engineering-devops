@@ -1,1 +1,1 @@
-to show emoji
+to display

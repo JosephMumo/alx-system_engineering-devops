@@ -1,1 +1,1 @@
-script to display all users
+script to find empty files and directories

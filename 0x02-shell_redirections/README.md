@@ -1,1 +1,1 @@
-script to count number of directories
+script to display 10 newest files

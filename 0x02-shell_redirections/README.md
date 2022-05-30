@@ -1,1 +1,1 @@
-finding that word
+to display number of lines

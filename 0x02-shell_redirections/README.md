@@ -1,1 +1,1 @@
-listing all .gif files
+script to create accroustic

@@ -1,1 +1,1 @@
-display 10 lines
+script to display the third line

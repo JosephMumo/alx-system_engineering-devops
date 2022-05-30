@@ -1,1 +1,1 @@
-script that writes into the file
+script that duplicates

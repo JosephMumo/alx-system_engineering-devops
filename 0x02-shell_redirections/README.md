@@ -1,1 +1,1 @@
-Script to reverse output
+script to display all users

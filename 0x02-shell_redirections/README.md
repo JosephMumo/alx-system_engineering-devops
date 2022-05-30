@@ -1,1 +1,1 @@
-script that duplicates
+script to delete regular js files

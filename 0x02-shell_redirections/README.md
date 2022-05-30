@@ -1,1 +1,1 @@
-script to show words without bin
+script to show letters only

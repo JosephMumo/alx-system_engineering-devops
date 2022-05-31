@@ -1,1 +1,1 @@
-script to display breath to love
+script to convert decimal to binary

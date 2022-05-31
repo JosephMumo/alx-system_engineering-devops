@@ -1,1 +1,1 @@
-script to convert decimal to binary
+script to print combinations

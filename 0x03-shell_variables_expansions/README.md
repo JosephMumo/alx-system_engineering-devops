@@ -1,1 +1,1 @@
-Script to add a file
+script to count number of directories

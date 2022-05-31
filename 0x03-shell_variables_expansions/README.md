@@ -1,1 +1,1 @@
-scrip to print 2 decimals
+script to convert numbers from base 10 to base 16

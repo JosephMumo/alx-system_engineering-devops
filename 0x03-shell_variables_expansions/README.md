@@ -1,1 +1,1 @@
-script to print combinations
+scrip to print 2 decimals

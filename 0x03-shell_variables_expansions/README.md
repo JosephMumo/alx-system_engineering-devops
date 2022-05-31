@@ -1,1 +1,1 @@
-creating a global variable
+script to print the arithmetic

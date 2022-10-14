@@ -2,3 +2,4 @@
 # This script displays list of currently running processes
 
 ps -a -x -u -f
+
